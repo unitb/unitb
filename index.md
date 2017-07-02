@@ -1,6 +1,6 @@
 ## Welcome to the Unit-B Project
 
-### 
+### Projects
 
 0. The Literate Unit-B Verifier ([here](https://github.com/unitb/literate-unitb-complete))
 1. A Lean embedding of the Unit-B Logic and Refinement Calculus ([here](https://github.com/unitb/unitb-semantics))
